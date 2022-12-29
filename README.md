@@ -25,9 +25,18 @@ To get started, make sure you have Python installed on your machine. Then, downl
 
 To install the Buy and Sell System, follow these steps:
 
-1. Download the source code from the GitHub repository
+1. Download or Clone the source code from the GitHub repository
+```
+git clone https://github.com/whilmarbitoco/Buy-and-Sell-System
+```
 2. Navigate to the root directory of the project in your command-line interface
-3. Run the program using the Python interpreter: `main.py`
+```
+cd Buy-and-Sell-System
+```
+3. Run the program using the Python interpreter
+```
+python3 main.py
+```
 
 ## Usage
 
