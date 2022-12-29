@@ -1,7 +1,7 @@
 # Buy and Sell System
 
 ![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=for-the-badge)
-?
+![GitHub forks](https://img.shields.io/github/forks/whilmarbitoco/Buy-and-Sell-System?style=for-the-badge)
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 A simple Python program for simulating a buy and sell system.
